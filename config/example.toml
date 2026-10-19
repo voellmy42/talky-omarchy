@@ -1,0 +1,6 @@
+# No formatter runs until a local command is configured.
+# Commands receive raw dictation on stdin and must emit only dictation on stdout.
+# Only configure trusted local executables: commands can themselves access networks.
+[formatter]
+command = []
+timeout_seconds = 2.0
