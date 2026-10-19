@@ -137,7 +137,8 @@ The desktop paste check changes the clipboard. The overlay check writes a croppe
 preview to `/tmp`. Neither starts microphone capture. Keep personal evaluation
 material in ignored `recordings/` and `benchmark-results/` directories.
 
-See [architecture](docs/architecture.md), [benchmarking](docs/benchmarking.md),
+See the [ten-item improvement roadmap](docs/review-and-roadmap.md),
+[architecture](docs/architecture.md), [benchmarking](docs/benchmarking.md),
 [implementation plan](PLAN.md), and [contributing](CONTRIBUTING.md).
 
 ## Credits and license

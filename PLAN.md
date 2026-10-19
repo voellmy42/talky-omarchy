@@ -44,7 +44,9 @@ recording state, reliable cancellation, and meaning-preserving text output.
 
 The user explicitly authorized creating a new public GitHub repository named
 `voellmy42/talky-omarchy` and selected the MIT license. Publish the initial version,
-then review the project and propose ten improvements. This authorization does not
+then review the project and propose ten improvements. The first upload is live
+(commit `2995654`), with public visibility, MIT license, and passing initial CI.
+The post-upload review is in [the ten-item roadmap](docs/review-and-roadmap.md). This authorization does not
 include announcing it on other services or sending messages to others.
 
 See [architecture](docs/architecture.md), [findings](docs/initial-findings.md),
